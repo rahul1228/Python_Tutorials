@@ -1,0 +1,6 @@
+First Name | Last Name | Address | Email | Phone Num
+
+Amit|Kewal|317E 91st street|amit@gmail.com|007
+Ta|Chandi|Washington D.C.|lilman202@gmail.com|732-212-5522
+Rahul|Wadhwani|333 Willoughby Ave.|rahul1228@gmail.com|340-642-5952
+Vinal|Vasand|St.Thomas U.S.V.I|cheefkief@gmail.com|340-690-22334
